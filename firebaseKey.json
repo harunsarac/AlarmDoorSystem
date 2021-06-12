@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "alarmonthedoorsystem",
+  "private_key_id": "06967dc1f5ba3bbe7086afc6c2e967ec905aed06",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCxDQeyTmegbHoB\nF/L9sbGpgTMrWzOa3u9GJAkQbhW6i3w6PWFxBJnssVEpWv5n99iDXONfcMhC05td\nCP0M7HLsPdss10K9/jbQJBiR+x72w7MyoSpxinwRmuFfQx0tkGr89Zlpk1vW1jCn\nAVKYd+DrRmCqpLYEZ0jkJ+eZQ0AkW8QX+wOW/bCF3NtNH6v0qmXkVw4qBMpUTFlG\nHbuz/tzy3J+yTLkgWJCHDUEbK5G2yyNR3yw6KjnIYpQmaj0efqs9k5tc5OBQIjY7\nXipjIp6hcvQlmBEI67PEpdyJikicloVbT4TS4HQk1BN19w6EbfERrYHd6OspCtXx\n8SP8s7NbAgMBAAECggEABVoMeoJONZYx1eigarS9Vw9VuaDHHY5Rk0AxmfKJ65qd\nxbDnSiBGetYdSu+6MvBV9hqPsOna09JLpvNHmuVmz+dKwb88ADw38fC1YWxC0li2\nCPjALLBv8aRJ3bRMpHzyDvVpjrxqkULmM5YhpgQxo0r8TwwtiFKK7IKcSJC01qR2\ndVq36s8fHujCNZXQDYabpN2wBWazLV5LXLNxDdWltXV6uq0ZKMEV4T3J6VgaCYiN\n/4M/NiKC9sNXyf1N+sg/yfc265dck1pw72wTvpFCgMCQqILsO3iYZJrYSutslhYM\nw/9fcFNy7fa5FXZJi+cxysho/ST7M1BsDaMU2NyoOQKBgQD2oOaccDDqfwpwNOGl\nCTA09Pq9F+2wUj2/mhLuoW5P+68Sh4XkbGezHhsDs1LrFI01iLEp4EZR3vIBhk8+\nBKULV8tP/lYtOUvzIdkhxd+orvA/e0M4zeyAnRThxQz1X4YTFYU+U2mTEwhWIAIZ\nQXuVB9FpMTUIUeh6BySoj5b/LwKBgQC3x06mRpW7S/luBcKIO6RtORtUa0sbCHUc\n1rZycr+mBaCKLLzFu0Z1/E8BbUWrdlt0C3EdLmBW4gi7SgcZc8NS2aJyCJWoAzEz\nexW/QkjlZ5UAxUPR2O9znQDnafADkX82sUonha6LFGzhXcqzEoUSgspr9G2Kqz7e\n8kbMVH5jlQKBgBYJipGv9K7/aw9bqk305DnXKhB7cuGud5YHTmnEQvcipiIhufUP\nOrTmm8NY4q/exj9iV3JGeAIYyccZGTuRbq30ylX7g/fGhuLSw3QhGjsYZp9FhFwv\nClLztkn2MZI7Vt+drKpFCcn6iWQouAdJsqE+cZfUrchwiTVeLghhzDxBAoGANyOO\nXmcJH6Pg13jU7+jtIXQj1gVHCHpWIOvu25HAHIDNtQdNMApLTrT/w07Uu2gMclnI\ne1fhwc+ZjQ/d524LKX1wtsQKmtkyVt7UHIk3s9SLKSsGeRycY1S047muMHPj9jXl\nKMx8HPBo5okseuPQl0g0kYVJpHRSrbOFOGMVdK0CgYAJKKrDLB79w1LKkbxIJVo3\ndolQOoBLMKqbW1zOZcgyXdIMDCgtv6hwwMLplvJisLskUbSRj6hnVWijupAmfErj\nLYCMDvbnGaWlpX9UC3iiOLL67+l/lHRBmKLgPI5ZKyTwfM/02tyFLikjNuc8pE2v\n7augOiCA8VnPOzyed/Xcng==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vnejr@alarmonthedoorsystem.iam.gserviceaccount.com",
+  "client_id": "117045568580961832896",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vnejr%40alarmonthedoorsystem.iam.gserviceaccount.com"
+}
